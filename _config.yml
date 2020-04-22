@@ -26,7 +26,7 @@ tel: +41 8084000
 tel_full: tel:+418084000
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street:kirjatyontekijiankatu
+  street: kirjatyontekijiankatu
   postcode: "00170"
   city: Helsinki
   country: Finland
