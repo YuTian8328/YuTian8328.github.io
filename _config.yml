@@ -7,8 +7,8 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyller.github.io/vitae
-author: Fábio Madeira
+# url: http://jekyller.github.io/vitae
+# author: Fábio Madeira
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
